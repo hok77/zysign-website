@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "about": "Über uns",
+    "caseStudies": "Fallstudien",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "alibabaStore": "Alibaba Shop",
+    "getQuote": "Angebot Erhalten",
+    "skipToContent": "Zum Hauptinhalt springen"
+  },
+  "hero": {
+    "title": "Premium <highlight>Beschilderungslösungen</highlight> für Ihr Unternehmen",
+    "subtitle": "Hochwertige, anpassbare Schilder, die die Sichtbarkeit Ihrer Marke erhöhen und Kunden weltweit anziehen.",
+    "shortAnswer": "ZySign bietet Premium-Beschilderungslösungen mit weltweiter Lieferung in über 150 Länder. Maßgeschneiderte LED-Schilder, Neon-Schilder und Außenbeschilderung mit ISO9001-Zertifizierung.",
+    "exploreProducts": "Produkte Erkunden",
+    "shopOnAlibaba": "Auf Alibaba Kaufen",
+    "geoNotification": "Wir haben erkannt, dass Sie sich in <strong>{region}</strong> befinden. Möchten Sie unsere <link>US-spezifischen Produkte</link> ansehen?",
+    "trustedBy": "Vertraut von 500+ Unternehmen weltweit"
+  },
+  "alibaba": {
+    "title": "Kaufen Sie Direkt in Unserem Alibaba Shop",
+    "description": "Erkunden Sie unseren vollständigen Produktkatalog, lesen Sie verifizierte Käuferbewertungen und nutzen Sie Alibabas sichere Zahlungs- und Versandoptionen.",
+    "features": {
+      "securePayment": "Sichere Zahlungsschutz",
+      "verifiedSupplier": "Verifizierter Lieferant mit 10+ Jahren",
+      "tradeAssurance": "Handelsversicherung für Ihre Bestellungen"
+    },
+    "visitStore": "Besuchen Sie Unseren Alibaba Shop"
+  },
+  "products": {
+    "title": "Unsere Premium Beschilderungslösungen",
+    "subtitle": "Wählen Sie aus unserem breiten Sortiment an hochwertigen Beschilderungsprodukten, die auf Ihre Geschäftsanforderungen zugeschnitten sind",
+    "filters": {
+      "global": "Global",
+      "northAmerica": "Nordamerika",
+      "europe": "Europa",
+      "mena": "MENA"
+    },
+    "ledSigns": {
+      "title": "LED-Schilder",
+      "description": "Energieeffiziente, helle und langlebige digitale Beschilderungslösungen",
+      "customizable": "Anpassbar"
+    },
+    "neonSigns": {
+      "title": "Neon-Schilder",
+      "description": "Lebendige, auffällige Neonzeichen für Bars, Cafés und Einzelhandelsgeschäfte",
+      "customDesigns": "Individuelle Designs"
+    },
+    "outdoorSigns": {
+      "title": "Außenschilder",
+      "description": "Wetterbestandige Beschilderungslösungen für die Außenwerbung von Unternehmen",
+      "weatherproof": "Wetterfest"
+    },
+    "viewDetails": "Details Anzeigen",
+    "viewAllProducts": "Alle Produkte auf Alibaba Ansehen"
+  },
+  "about": {
+    "title": "Über ZySign - Ihr Vertrauensvoller Beschilderungspartner",
+    "subtitle": "Mit über 10 Jahren Erfahrung in der Beschilderungsbranche hat sich ZySign als führender Hersteller und Lieferant von Premium-Beschilderungslösungen weltweit etabliert.",
+    "mission": "Unsere Mission",
+    "missionText": "Unternehmen weltweit mit innovativen, hochwertigen Beschilderungslösungen zu stärken, die die Markensichtbarkeit erhöhen und das Kundenengagement fördern. Wir glauben, dass jedes Unternehmen professionelle Beschilderung verdient, die ihre Markenexzellenz widerspiegelt.",
+    "certifications": {
+      "iso9001": "ISO9001 Qualitätsmanagement-Zertifizierung",
+      "alibabaGold": "Alibaba Gold Supplier seit über 5 Jahren",
+      "onTimeDelivery": "100% Pünktliche Lieferrate",
+      "globalClients": "Vertraut von 500+ Globalen Kunden"
+    },
+    "stats": {
+      "yearsExperience": "Jahre Erfahrung",
+      "countriesServed": "Bediente Länder",
+      "happyClients": "Zufriedene Kunden"
+    }
+  },
+  "caseStudies": {
+    "title": "Erfolgsgeschichten aus aller Welt",
+    "subtitle": "Sehen Sie, wie Unternehmen verschiedener Branchen ihre Sichtbarkeit mit unseren maßgeschneiderten Beschilderungslösungen transformiert haben",
+    "restaurant": {
+      "title": "Innenstadt-Restaurantkette",
+      "description": "Kundenspezifische LED-Menütafeln und Außenbeschilderung erhöhten den Fußgängerverkehr um 300% und den Umsatz um 45% innerhalb von 6 Monaten.",
+      "location": "New York, USA"
+    },
+    "fashion": {
+      "title": "Mode-Boutique-Kette",
+      "description": "Lebendige Neon-Schaufenster und Schaufrontschilder steigerten die Abendverkäufe um 250% und die Markenbekanntheit erheblich.",
+      "location": "London, Großbritannien"
+    },
+    "corporate": {
+      "title": "Firmenzentrale",
+      "description": "Die großflächige Außenbeschilderungsinstallation verbesserte die Markensichtbarkeit um 400% und verstärkte das Unternehmensimage im Geschäftsviertel.",
+      "location": "Dubai, VAE"
+    },
+    "viewMore": "Mehr Fallstudien Ansehen"
+  },
+  "shipping": {
+    "title": "Weltweiter Versand & Lokaler Support",
+    "subtitle": "Wir liefern in über 150 Länder mit regionsspezifischem Support",
+    "worldwide": {
+      "title": "Weltweite Lieferung",
+      "description": "Schneller und zuverlässiger Versand in über 150 Länder mit Tracking- und Versicherungsoptionen.",
+      "seaFreight": "Seefracht"
+    },
+    "compliance": {
+      "title": "Regionale Compliance",
+      "description": "Produkte, die auf die lokalen Vorschriften und Standards für jeden Markt zugeschnitten sind."
+    },
+    "support": {
+      "title": "Lokaler Support",
+      "description": "Mehrsprachiger Kundendienst in 8 Sprachen während der lokalen Geschäftszeiten verfügbar."
+    }
+  },
+  "faq": {
+    "title": "Häufig Gestellte Fragen",
+    "subtitle": "Finden Sie Antworten auf häufige Fragen zu unseren Produkten und Dienstleistungen",
+    "questions": {
+      "customDesign": {
+        "question": "Bieten Sie maßgeschneiderte Designdienste für Beschilderungen an?",
+        "answer": "Ja, wir bieten umfassende maßgeschneiderte Designdienste für alle unsere Beschilderungsprodukte an. Unser Designteam arbeitet mit Ihnen zusammen, um Beschilderungen zu erstellen, die Ihrer Markenidentität entsprechen und Ihre spezifischen Anforderungen erfüllen. Wir bieten unbegrenzte Überarbeitungen, bis Sie mit dem Design vollständig zufrieden sind."
+      },
+      "productionTime": {
+        "question": "Wie ist die typische Produktions- und Versandzeit?",
+        "answer": "Standardprodukte werden normalerweise innerhalb von 3-5 Werktagen versandt. Individuelle Designs benötigen typischerweise 7-10 Werktage für die Produktion. Versandzeiten variieren je nach Ziel: 3-5 Tage für Nordamerika und Europa, 5-10 Tage für Asien und 10-15 Tage für andere internationale Ziele."
+      },
+      "middleEast": {
+        "question": "Liefern Sie in Länder des Nahen Ostens?",
+        "answer": "Ja, wir liefern in alle Länder des Nahen Ostens, einschließlich Saudi-Arabien, VAE, Katar, Kuwait, Bahrain, Oman und andere. Wir bieten spezielle Verpackungen für Wüstenklimazonen und haben lokale Partner in Dubai für schnellere Lieferung."
+      }
+    }
+  },
+  "cta": {
+    "title": "Bereit, die Sichtbarkeit Ihres Unternehmens zu verändern?",
+    "subtitle": "Wählen Sie Ihre bevorzugte Bestellmethode - über unsere Website oder unseren verifizierten Alibaba Shop.",
+    "requestQuote": "Individuelles Angebot Anfordern",
+    "shopAlibaba": "Auf Alibaba Einkaufen"
+  },
+  "footer": {
+    "description": "Premium Beschilderungslösungen für Unternehmen, die ihre Sichtbarkeit verbessern und mehr Kunden anziehen möchten.",
+    "quickLinks": "Quick Links",
+    "shoppingOptions": "Einkaufsoptionen",
+    "regionalOffices": "Regionale Büros",
+    "locations": {
+      "usa": "USA: New York, NY",
+      "eu": "EU: London, Vereinigtes Königreich",
+      "mena": "MENA: Dubai, VAE"
+    },
+    "legal": {
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfService": "Nutzungsbedingungen",
+      "shippingInfo": "Versandinformationen"
+    },
+    "copyright": "© 2023 ZySign. Alle Rechte vorbehalten. Letzte Aktualisierung: 19. September 2023"
+  },
+  "common": {
+    "loading": "Laden...",
+    "close": "Schließen",
+    "trustedBy": "Vertraut von führenden Unternehmen weltweit"
+  }
+}

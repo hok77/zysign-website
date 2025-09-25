@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "about": "Acerca de",
+    "caseStudies": "Casos de Estudio",
+    "faq": "FAQ",
+    "contact": "Contacto",
+    "alibabaStore": "Tienda Alibaba",
+    "getQuote": "Obtener Cotización",
+    "skipToContent": "Saltar al contenido principal"
+  },
+  "hero": {
+    "title": "Soluciones de <highlight>Señalización</highlight> Premium para Su Negocio",
+    "subtitle": "Señales de alta calidad y personalizables que mejoran la visibilidad de su marca y atraen clientes en todo el mundo.",
+    "shortAnswer": "ZySign proporciona soluciones de señalización premium con entrega global a más de 150 países. Letreros LED personalizados, letreros de neón y señalización exterior con certificación ISO9001.",
+    "exploreProducts": "Explorar Productos",
+    "shopOnAlibaba": "Comprar en Alibaba",
+    "geoNotification": "Detectamos que estás en <strong>{region}</strong>. ¿Te gustaría ver nuestros <link>productos específicos de Estados Unidos</link>?",
+    "trustedBy": "Confiado por 500+ empresas en todo el mundo"
+  },
+  "alibaba": {
+    "title": "Compre Directamente en Nuestra Tienda Alibaba",
+    "description": "Explore nuestro catálogo completo de productos, lea reseñas verificadas de compradores y aproveche las opciones seguras de pago y envío de Alibaba.",
+    "features": {
+      "securePayment": "Protección de pago seguro",
+      "verifiedSupplier": "Proveedor verificado con 10+ años",
+      "tradeAssurance": "Seguro comercial para sus pedidos"
+    },
+    "visitStore": "Visite Nuestra Tienda Alibaba"
+  },
+  "products": {
+    "title": "Nuestras Soluciones de Señalización Premium",
+    "subtitle": "Elija entre nuestra amplia gama de productos de señalización de alta calidad adaptados a las necesidades de su negocio",
+    "filters": {
+      "global": "Global",
+      "northAmerica": "América del Norte",
+      "europe": "Europa",
+      "mena": "MENA"
+    },
+    "ledSigns": {
+      "title": "Letreros LED",
+      "description": "Soluciones de señalización digital eficientes en energía, brillantes y duraderas",
+      "customizable": "Personalizable"
+    },
+    "neonSigns": {
+      "title": "Letreros de Neón",
+      "description": "Letreros de neón vibrantes y llamativos para bares, cafeterías y tiendas",
+      "customDesigns": "Diseños Personalizados"
+    },
+    "outdoorSigns": {
+      "title": "Letreros Exteriores",
+      "description": "Soluciones de señalización resistentes a la intemperie para promoción exterior de negocios",
+      "weatherproof": "Resistente al Clima"
+    },
+    "viewDetails": "Ver Detalles",
+    "viewAllProducts": "Ver Todos los Productos en Alibaba"
+  },
+  "about": {
+    "title": "Acerca de ZySign - Su Socio de Confianza en Señalización",
+    "subtitle": "Con más de 10 años de experiencia en la industria de señalización, ZySign se ha establecido como un fabricante y proveedor líder de soluciones de señalización premium en todo el mundo.",
+    "mission": "Nuestra Misión",
+    "missionText": "Empoderar a las empresas de todo el mundo con soluciones de señalización innovadoras y de alta calidad que mejoren la visibilidad de la marca y impulsen la participación del cliente. Creemos que cada empresa merece señalización profesional que refleje la excelencia de su marca.",
+    "certifications": {
+      "iso9001": "Certificación de Gestión de Calidad ISO9001",
+      "alibabaGold": "Proveedor Dorado de Alibaba por más de 5 años",
+      "onTimeDelivery": "Tasa de Entrega Puntual del 100%",
+      "globalClients": "Confiado por 500+ Clientes Globales"
+    },
+    "stats": {
+      "yearsExperience": "Años de Experiencia",
+      "countriesServed": "Países Atendidos",
+      "happyClients": "Clientes Satisfechos"
+    }
+  },
+  "caseStudies": {
+    "title": "Historias de Éxito de Todo el Mundo",
+    "subtitle": "Vea cómo las empresas de diferentes industrias han transformado su visibilidad con nuestras soluciones de señalización personalizadas",
+    "restaurant": {
+      "title": "Cadena de Restaurantes del Centro",
+      "description": "Los tableros de menú LED personalizados y la señalización exterior aumentaron el tráfico peatonal en un 300% y los ingresos en un 45% en 6 meses.",
+      "location": "Nueva York, EE.UU."
+    },
+    "fashion": {
+      "title": "Cadena de Boutiques de Moda",
+      "description": "Las vitrinas de neón vibrantes y la señalización de fachada aumentaron las ventas nocturnas en un 250% y el reconocimiento de marca significativamente.",
+      "location": "Londres, Reino Unido"
+    },
+    "corporate": {
+      "title": "Sede Corporativa",
+      "description": "La instalación de señalización exterior a gran escala mejoró la visibilidad de marca en un 400% y fortaleció la imagen corporativa en el distrito comercial.",
+      "location": "Dubái, EAU"
+    },
+    "viewMore": "Ver Más Casos de Estudio"
+  },
+  "shipping": {
+    "title": "Envío Global y Soporte Local",
+    "subtitle": "Entregamos a más de 150 países con soporte específico por región",
+    "worldwide": {
+      "title": "Entrega Mundial",
+      "description": "Envío rápido y confiable a más de 150 países con opciones de seguimiento y seguro.",
+      "seaFreight": "Flete Marítimo"
+    },
+    "compliance": {
+      "title": "Cumplimiento Regional",
+      "description": "Productos diseñados para cumplir con las regulaciones y estándares locales de cada mercado."
+    },
+    "support": {
+      "title": "Soporte Local",
+      "description": "Servicio al cliente multilingüe disponible en 8 idiomas durante horarios comerciales locales."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Encuentre respuestas a preguntas comunes sobre nuestros productos y servicios",
+    "questions": {
+      "customDesign": {
+        "question": "¿Ofrecen servicios de diseño personalizado para señalización?",
+        "answer": "Sí, proporcionamos servicios completos de diseño personalizado para todos nuestros productos de señalización. Nuestro equipo de diseño trabaja con usted para crear señalización que coincida con la identidad de su marca y cumpla con sus requisitos específicos. Ofrecemos revisiones ilimitadas hasta que esté completamente satisfecho con el diseño."
+      },
+      "productionTime": {
+        "question": "¿Cuál es el tiempo típico de producción y envío?",
+        "answer": "Los productos estándar generalmente se envían dentro de 3-5 días hábiles. Los diseños personalizados generalmente toman 7-10 días hábiles para producción. Los tiempos de envío varían según el destino: 3-5 días para América del Norte y Europa, 5-10 días para Asia, y 10-15 días para otros destinos internacionales."
+      },
+      "middleEast": {
+        "question": "¿Envían a países de Oriente Medio?",
+        "answer": "Sí, enviamos a todos los países de Oriente Medio, incluyendo Arabia Saudí, Emiratos Árabes Unidos, Qatar, Kuwait, Bahréin, Omán y otros. Ofrecemos embalaje especializado para climas desérticos y tenemos socios locales en Dubái para entrega más rápida."
+      }
+    }
+  },
+  "cta": {
+    "title": "¿Listo para transformar la visibilidad de su negocio?",
+    "subtitle": "Elija su forma preferida de pedido - a través de nuestro sitio web o nuestra tienda verificada de Alibaba.",
+    "requestQuote": "Solicitar Cotización Personalizada",
+    "shopAlibaba": "Comprar en Alibaba"
+  },
+  "footer": {
+    "description": "Soluciones de señalización premium para empresas que buscan mejorar su visibilidad y atraer más clientes.",
+    "quickLinks": "Enlaces Rápidos",
+    "shoppingOptions": "Opciones de Compra",
+    "regionalOffices": "Oficinas Regionales",
+    "locations": {
+      "usa": "EE.UU.: Nueva York, NY",
+      "eu": "UE: Londres, Reino Unido",
+      "mena": "MENA: Dubái, EAU"
+    },
+    "legal": {
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfService": "Términos de Servicio",
+      "shippingInfo": "Información de Envío"
+    },
+    "copyright": "© 2023 ZySign. Todos los derechos reservados. Última actualización: 19 de septiembre de 2023"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "close": "Cerrar",
+    "trustedBy": "Confiado por empresas líderes en todo el mundo"
+  }
+}

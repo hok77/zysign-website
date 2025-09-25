@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Prodotti",
+    "about": "Chi siamo",
+    "caseStudies": "Casi di Studio",
+    "faq": "FAQ",
+    "contact": "Contatto",
+    "alibabaStore": "Negozio Alibaba",
+    "getQuote": "Richiedi Preventivo",
+    "skipToContent": "Salta al contenuto principale"
+  },
+  "hero": {
+    "title": "Soluzioni di <highlight>Segnaletica</highlight> Premium per la Tua Azienda",
+    "subtitle": "Segnaletica di alta qualità e personalizzabile che migliora la visibilità del tuo marchio e attrae clienti in tutto il mondo.",
+    "shortAnswer": "ZySign fornisce soluzioni di segnaletica premium con consegna globale in oltre 150 paesi. Insegne LED personalizzate, insegne al neon e segnaletica esterna con certificazione ISO9001.",
+    "exploreProducts": "Esplora Prodotti",
+    "shopOnAlibaba": "Acquista su Alibaba",
+    "geoNotification": "Abbiamo rilevato che ti trovi in <strong>{region}</strong>. Vorresti vedere i nostri <link>prodotti specifici per gli Stati Uniti</link>?",
+    "trustedBy": "Affidabile da 500+ aziende in tutto il mondo"
+  },
+  "alibaba": {
+    "title": "Acquista Direttamente dal Nostro Negozio Alibaba",
+    "description": "Esplora il nostro catalogo completo di prodotti, leggi le recensioni verificate degli acquirenti e approfitta delle opzioni di pagamento e spedizione sicure di Alibaba.",
+    "features": {
+      "securePayment": "Protezione pagamento sicuro",
+      "verifiedSupplier": "Fornitore verificato con 10+ anni",
+      "tradeAssurance": "Assicurazione commerciale per i tuoi ordini"
+    },
+    "visitStore": "Visita il Nostro Negozio Alibaba"
+  },
+  "products": {
+    "title": "Le Nostre Soluzioni di Segnaletica Premium",
+    "subtitle": "Scegli dalla nostra vasta gamma di prodotti di segnaletica di alta qualità personalizzati per le esigenze della tua azienda",
+    "filters": {
+      "global": "Globale",
+      "northAmerica": "Nord America",
+      "europe": "Europa",
+      "mena": "MENA"
+    },
+    "ledSigns": {
+      "title": "Insegne LED",
+      "description": "Soluzioni di segnaletica digitale efficienti dal punto di vista energetico, luminose e durevoli",
+      "customizable": "Personalizzabile"
+    },
+    "neonSigns": {
+      "title": "Insegne al Neon",
+      "description": "Insegne al neon vibranti e accattivanti per bar, caffè e negozi al dettaglio",
+      "customDesigns": "Design Personalizzati"
+    },
+    "outdoorSigns": {
+      "title": "Insegne Esterne",
+      "description": "Soluzioni di segnaletica resistenti alle intemperie per la promozione esterna aziendale",
+      "weatherproof": "Resistente alle Intemperie"
+    },
+    "viewDetails": "Vedi Dettagli",
+    "viewAllProducts": "Vedi Tutti i Prodotti su Alibaba"
+  },
+  "about": {
+    "title": "Su ZySign - Il Vostro Partner di Fiducia nella Segnaletica",
+    "subtitle": "Con oltre 10 anni di esperienza nell'industria della segnaletica, ZySign si è affermata come produttore e fornitore leader di soluzioni di segnaletica premium in tutto il mondo.",
+    "mission": "La Nostra Missione",
+    "missionText": "Potenziare le aziende di tutto il mondo con soluzioni di segnaletica innovative e di alta qualità che migliorano la visibilità del marchio e aumentano il coinvolgimento dei clienti. Crediamo che ogni azienda meriti una segnaletica professionale che rifletta l'eccellenza del suo marchio.",
+    "certifications": {
+      "iso9001": "Certificazione di Gestione della Qualità ISO9001",
+      "alibabaGold": "Fornitore Gold Alibaba da oltre 5 anni",
+      "onTimeDelivery": "Tasso di Consegna Puntuale del 100%",
+      "globalClients": "Fidato da 500+ Clienti Globali"
+    },
+    "stats": {
+      "yearsExperience": "Anni di Esperienza",
+      "countriesServed": "Paesi Serviti",
+      "happyClients": "Clienti Soddisfatti"
+    }
+  },
+  "caseStudies": {
+    "title": "Storie di Successo da Tutto il Mondo",
+    "subtitle": "Scopri come le aziende di diversi settori hanno trasformato la loro visibilità con le nostre soluzioni di segnaletica personalizzate",
+    "restaurant": {
+      "title": "Catena di Ristoranti del Centro",
+      "description": "I pannelli menu LED personalizzati e la segnaletica esterna hanno aumentato il traffico pedonale del 300% e i ricavi del 45% entro 6 mesi.",
+      "location": "New York, USA"
+    },
+    "fashion": {
+      "title": "Catena di Boutique di Moda",
+      "description": "Le vetrine al neon vibranti e la segnaletica del negozio hanno aumentato le vendite serali del 250% e il riconoscimento del marchio significativamente.",
+      "location": "Londra, Regno Unito"
+    },
+    "corporate": {
+      "title": "Sede Aziendale",
+      "description": "L'installazione di segnaletica esterna su larga scala ha migliorato la visibilità del marchio del 400% e rafforzato l'immagine aziendale nel distretto commerciale.",
+      "location": "Dubai, EAU"
+    },
+    "viewMore": "Vedi Altri Casi di Studio"
+  },
+  "shipping": {
+    "title": "Spedizione Globale e Supporto Locale",
+    "subtitle": "Consegniamo in oltre 150 paesi con supporto specifico per regione",
+    "worldwide": {
+      "title": "Consegna Mondiale",
+      "description": "Spedizione veloce e affidabile in oltre 150 paesi con opzioni di tracciamento e assicurazione.",
+      "seaFreight": "Trasporto Marittimo"
+    },
+    "compliance": {
+      "title": "Conformità Regionale",
+      "description": "Prodotti progettati per soddisfare le normative e gli standard locali di ogni mercato."
+    },
+    "support": {
+      "title": "Supporto Locale",
+      "description": "Servizio clienti multilingue disponibile in 8 lingue durante gli orari lavorativi locali."
+    }
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "subtitle": "Trova risposte alle domande comuni sui nostri prodotti e servizi",
+    "questions": {
+      "customDesign": {
+        "question": "Offrite servizi di progettazione personalizzata per la segnaletica?",
+        "answer": "Sì, forniamo servizi completi di progettazione personalizzata per tutti i nostri prodotti di segnaletica. Il nostro team di progettazione lavora con te per creare segnaletica che corrisponda all'identità del tuo marchio e soddisfi i tuoi requisiti specifici. Offriamo revisioni illimitate fino a quando non sei completamente soddisfatto del design."
+      },
+      "productionTime": {
+        "question": "Qual è il tempo tipico di produzione e spedizione?",
+        "answer": "I prodotti standard vengono generalmente spediti entro 3-5 giorni lavorativi. I design personalizzati richiedono tipicamente 7-10 giorni lavorativi per la produzione. I tempi di spedizione variano per destinazione: 3-5 giorni per Nord America ed Europa, 5-10 giorni per l'Asia, e 10-15 giorni per altre destinazioni internazionali."
+      },
+      "middleEast": {
+        "question": "Spedite verso i paesi del Medio Oriente?",
+        "answer": "Sì, spediamo in tutti i paesi del Medio Oriente, inclusi Arabia Saudita, Emirati Arabi Uniti, Qatar, Kuwait, Bahrain, Oman e altri. Offriamo imballaggi specializzati per climi desertici e abbiamo partner locali a Dubai per consegne più veloci."
+      }
+    }
+  },
+  "cta": {
+    "title": "Pronto a trasformare la visibilità della tua azienda?",
+    "subtitle": "Scegli il tuo metodo di ordine preferito - tramite il nostro sito web o il nostro negozio Alibaba verificato.",
+    "requestQuote": "Richiedi Preventivo Personalizzato",
+    "shopAlibaba": "Acquista su Alibaba"
+  },
+  "footer": {
+    "description": "Soluzioni di segnaletica premium per aziende che cercano di migliorare la loro visibilità e attrarre più clienti.",
+    "quickLinks": "Link Rapidi",
+    "shoppingOptions": "Opzioni di Acquisto",
+    "regionalOffices": "Uffici Regionali",
+    "locations": {
+      "usa": "USA: New York, NY",
+      "eu": "UE: Londra, Regno Unito",
+      "mena": "MENA: Dubai, Emirati Arabi Uniti"
+    },
+    "legal": {
+      "privacyPolicy": "Politica sulla Privacy",
+      "termsOfService": "Termini di Servizio",
+      "shippingInfo": "Informazioni sulla Spedizione"
+    },
+    "copyright": "© 2023 ZySign. Tutti i diritti riservati. Ultimo aggiornamento: 19 settembre 2023"
+  },
+  "common": {
+    "loading": "Caricamento...",
+    "close": "Chiudi",
+    "trustedBy": "Affidabile da aziende leader in tutto il mondo"
+  }
+}

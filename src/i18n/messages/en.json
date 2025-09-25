@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "caseStudies": "Case Studies",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "alibabaStore": "Alibaba Store",
+    "getQuote": "Get a Quote",
+    "skipToContent": "Skip to main content"
+  },
+  "hero": {
+    "title": "Premium Signage <highlight>Solutions</highlight> for Your Business",
+    "subtitle": "High-quality, customizable signs that enhance your brand visibility and attract customers worldwide.",
+    "shortAnswer": "ZySign provides premium signage solutions with global delivery to 150+ countries. Custom LED signs, neon signs, and outdoor signage with ISO9001 certification.",
+    "exploreProducts": "Explore Products",
+    "shopOnAlibaba": "Shop on Alibaba",
+    "geoNotification": "We detected you're in <strong>{region}</strong>. Would you like to view our <link>US-specific products</link>?",
+    "trustedBy": "Trusted by 500+ businesses worldwide"
+  },
+  "alibaba": {
+    "title": "Buy Directly from Our Alibaba Store",
+    "description": "Explore our complete product catalog, read verified buyer reviews, and take advantage of Alibaba's secure payment and shipping options.",
+    "features": {
+      "securePayment": "Secure payment protection",
+      "verifiedSupplier": "Verified supplier with 10+ years",
+      "tradeAssurance": "Trade assurance for your orders"
+    },
+    "visitStore": "Visit Our Alibaba Store"
+  },
+  "products": {
+    "title": "Our Premium Signage Solutions",
+    "subtitle": "Choose from our wide range of high-quality signage products tailored to your business needs",
+    "filters": {
+      "global": "Global",
+      "northAmerica": "North America",
+      "europe": "Europe",
+      "mena": "MENA"
+    },
+    "ledSigns": {
+      "title": "LED Signs",
+      "description": "Energy-efficient, bright, and durable digital signage solutions",
+      "customizable": "Customizable"
+    },
+    "neonSigns": {
+      "title": "Neon Signs",
+      "description": "Vibrant, eye-catching neon signs for bars, cafes, and retail stores",
+      "customDesigns": "Custom Designs"
+    },
+    "outdoorSigns": {
+      "title": "Outdoor Signs",
+      "description": "Weather-resistant signage solutions for exterior business promotion",
+      "weatherproof": "Weatherproof"
+    },
+    "viewDetails": "View Details",
+    "viewAllProducts": "View All Products on Alibaba"
+  },
+  "about": {
+    "title": "About ZySign - Your Trusted Signage Partner",
+    "subtitle": "With over 10 years of experience in the signage industry, ZySign has established itself as a leading manufacturer and supplier of premium signage solutions worldwide.",
+    "mission": "Our Mission",
+    "missionText": "To empower businesses worldwide with innovative, high-quality signage solutions that enhance brand visibility and drive customer engagement. We believe that every business deserves professional signage that reflects their brand excellence.",
+    "certifications": {
+      "iso9001": "ISO9001 Quality Management Certification",
+      "alibabaGold": "Alibaba Gold Supplier for 5+ years",
+      "onTimeDelivery": "100% On-time Delivery Rate",
+      "globalClients": "Trusted by 500+ Global Clients"
+    },
+    "stats": {
+      "yearsExperience": "Years of Experience",
+      "countriesServed": "Countries Served",
+      "happyClients": "Happy Clients"
+    }
+  },
+  "caseStudies": {
+    "title": "Success Stories from Around the World",
+    "subtitle": "See how businesses across different industries have transformed their visibility with our custom signage solutions",
+    "restaurant": {
+      "title": "Downtown Restaurant Chain",
+      "description": "Custom LED menu boards and exterior signage increased foot traffic by 300% and revenue by 45% within 6 months.",
+      "location": "New York, USA"
+    },
+    "fashion": {
+      "title": "Fashion Boutique Chain",
+      "description": "Vibrant neon window displays and storefront signage boosted evening sales by 250% and brand recognition significantly.",
+      "location": "London, UK"
+    },
+    "corporate": {
+      "title": "Corporate Headquarters",
+      "description": "Large-scale outdoor signage installation improved brand visibility by 400% and enhanced corporate image in the business district.",
+      "location": "Dubai, UAE"
+    },
+    "viewMore": "View More Case Studies"
+  },
+  "shipping": {
+    "title": "Global Shipping & Local Support",
+    "subtitle": "We deliver to over 150 countries with region-specific support",
+    "worldwide": {
+      "title": "Worldwide Delivery",
+      "description": "Fast and reliable shipping to over 150 countries with tracking and insurance options.",
+      "seaFreight": "Sea Freight"
+    },
+    "compliance": {
+      "title": "Regional Compliance",
+      "description": "Products tailored to meet local regulations and standards for each market."
+    },
+    "support": {
+      "title": "Local Support",
+      "description": "Multilingual customer service available in 8 languages during local business hours."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our products and services",
+    "questions": {
+      "customDesign": {
+        "question": "Do you offer custom design services for signage?",
+        "answer": "Yes, we provide complete custom design services for all our signage products. Our design team works with you to create signage that matches your brand identity and meets your specific requirements. We offer unlimited revisions until you're completely satisfied with the design."
+      },
+      "productionTime": {
+        "question": "What is the typical production and shipping time?",
+        "answer": "Standard products usually ship within 3-5 business days. Custom designs typically take 7-10 business days for production. Shipping times vary by destination: 3-5 days for North America and Europe, 5-10 days for Asia, and 10-15 days for other international destinations."
+      },
+      "middleEast": {
+        "question": "Do you ship to Middle Eastern countries?",
+        "answer": "Yes, we ship to all Middle Eastern countries including Saudi Arabia, UAE, Qatar, Kuwait, Bahrain, Oman, and others. We offer specialized packaging for desert climates and have local partners in Dubai for faster delivery."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Business Visibility?",
+    "subtitle": "Choose your preferred way to order - through our website or our verified Alibaba store.",
+    "requestQuote": "Request a Custom Quote",
+    "shopAlibaba": "Shop on Alibaba"
+  },
+  "footer": {
+    "description": "Premium signage solutions for businesses looking to enhance their visibility and attract more customers.",
+    "quickLinks": "Quick Links",
+    "shoppingOptions": "Shopping Options",
+    "regionalOffices": "Regional Offices",
+    "locations": {
+      "usa": "USA: New York, NY",
+      "eu": "EU: London, UK",
+      "mena": "MENA: Dubai, UAE"
+    },
+    "legal": {
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "shippingInfo": "Shipping Info"
+    },
+    "copyright": "© 2023 ZySign. All rights reserved. Last updated: September 19, 2023"
+  },
+  "common": {
+    "loading": "Loading...",
+    "close": "Close",
+    "trustedBy": "Trusted by leading companies worldwide"
+  }
+}

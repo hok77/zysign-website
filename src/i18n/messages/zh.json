@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "首页",
+    "products": "产品",
+    "about": "关于我们",
+    "caseStudies": "案例研究",
+    "faq": "常见问题",
+    "contact": "联系我们",
+    "alibabaStore": "Alibaba商店",
+    "getQuote": "获取报价",
+    "skipToContent": "跳转到主要内容"
+  },
+  "hero": {
+    "title": "为您的企业提供高端<highlight>标识</highlight>解决方案",
+    "subtitle": "高品质、可定制的标识，提升您的品牌可见度，吸引全球客户。",
+    "shortAnswer": "ZySign提供高端标识解决方案，全球配送至150+个国家。定制LED标识、霓虹灯标识和户外标识，获得ISO9001认证。",
+    "exploreProducts": "浏览产品",
+    "shopOnAlibaba": "在Alibaba购买",
+    "geoNotification": "我们检测到您在<strong>{region}</strong>。您想查看我们的<link>美国专用产品</link>吗？",
+    "trustedBy": "全球500+企业的信赖之选"
+  },
+  "alibaba": {
+    "title": "直接在我们的Alibaba商店购买",
+    "description": "浏览我们完整的产品目录，阅读经认证的买家评价，并利用Alibaba安全的支付和送货选项。",
+    "features": {
+      "securePayment": "安全付款保障",
+      "verifiedSupplier": "认证供应商，10+年经验",
+      "tradeAssurance": "订单贸易保障"
+    },
+    "visitStore": "访问我们的Alibaba商店"
+  },
+  "products": {
+    "title": "我们的高端标识解决方案",
+    "subtitle": "从我们为您的业务需求量身定制的高品质标识产品中选择",
+    "filters": {
+      "global": "全球",
+      "northAmerica": "北美",
+      "europe": "欧洲",
+      "mena": "中东北非"
+    },
+    "ledSigns": {
+      "title": "LED标识",
+      "description": "节能、明亮、耐用的数字标识解决方案",
+      "customizable": "可定制"
+    },
+    "neonSigns": {
+      "title": "霓虹灯标识",
+      "description": "鲜艳引人注目的霓虹灯标识，适用于酒吧、咖啡厅和零售店",
+      "customDesigns": "定制设计"
+    },
+    "outdoorSigns": {
+      "title": "户外标识",
+      "description": "防天气标识解决方案，用于企业外部推广",
+      "weatherproof": "防天气"
+    },
+    "viewDetails": "查看详情",
+    "viewAllProducts": "在Alibaba查看所有产品"
+  },
+  "about": {
+    "title": "关于ZySign - 您值得信赖的标识合作伙伴",
+    "subtitle": "凭借在标识行业超过10年的经验，ZySign已成为全球领先的高端标识解决方案制造商和供应商。",
+    "mission": "我们的使命",
+    "missionText": "通过创新的高品质标识解决方案赋能全球企业，增强品牌可见度并促进客户参与。我们相信每个企业都应该拥有反映其品牌卓越性的专业标识。",
+    "certifications": {
+      "iso9001": "ISO9001质量管理认证",
+      "alibabaGold": "Alibaba金牌供应商5+年",
+      "onTimeDelivery": "100%准时交付率",
+      "globalClients": "500+全球客户的信赖"
+    },
+    "stats": {
+      "yearsExperience": "年经验",
+      "countriesServed": "服务国家",
+      "happyClients": "满意客户"
+    }
+  },
+  "caseStudies": {
+    "title": "来自世界各地的成功案例",
+    "subtitle": "了解不同行业的企业如何通过我们的定制标识解决方案改变其品牌可见度",
+    "restaurant": {
+      "title": "市中心连锁餐厅",
+      "description": "定制LED菜单板和外部标识在6个月内将客流量增加了300%，收入增加了45%。",
+      "location": "纽约，美国"
+    },
+    "fashion": {
+      "title": "时尚精品连锁店",
+      "description": "生动的霓虹橱窗展示和店面标识将夜间销售额提升了250%，并显著提高了品牌认知度。",
+      "location": "伦敦，英国"
+    },
+    "corporate": {
+      "title": "企业总部",
+      "description": "大型户外标识安装将品牌可见度提高了400%，并提升了在商务区的企业形象。",
+      "location": "迪拜，阿联酋"
+    },
+    "viewMore": "查看更多案例研究"
+  },
+  "shipping": {
+    "title": "全球配送与本地支持",
+    "subtitle": "我们向150+个国家提供配送服务，并提供地区化支持",
+    "worldwide": {
+      "title": "全球配送",
+      "description": "快速可靠的配送服务，覆盖150+个国家，提供跟踪和保险选项。",
+      "seaFreight": "海运"
+    },
+    "compliance": {
+      "title": "地区合规",
+      "description": "产品量身定制，满足各市场的当地法规和标准。"
+    },
+    "support": {
+      "title": "本地支持",
+      "description": "多语言客户服务，在当地工作时间提供8种语言支持。"
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "找到关于我们产品和服务的常见问题解答",
+    "questions": {
+      "customDesign": {
+        "question": "你们提供标识定制设计服务吗？",
+        "answer": "是的，我们为所有标识产品提供完整的定制设计服务。我们的设计团队与您合作，创建与您的品牌形象相匹配并满足您特定需求的标识。我们提供无限修改，直到您对设计完全满意。"
+      },
+      "productionTime": {
+        "question": "典型的生产和运输时间是多久？",
+        "answer": "标准产品通常在3-5个工作日内发货。定制设计通常需要7-10个工作日进行生产。运输时间因目的地而异：北美和欧洲3-5天，亚洲5-10天，其他国际目的地10-15天。"
+      },
+      "middleEast": {
+        "question": "你们向中东国家发货吗？",
+        "answer": "是的，我们向所有中东国家发货，包括沙特阿拉伯、阿联酋、卡塔尔、科威特、巴林、阿曼等。我们为沙漠气候提供专业包装，并在迪拜有当地合作伙伴以实现更快速的交付。"
+      }
+    }
+  },
+  "cta": {
+    "title": "准备好改变您企业的可见度了吗？",
+    "subtitle": "选择您偏爱的订购方式 - 通过我们的网站或我们经认证的Alibaba商店。",
+    "requestQuote": "申请定制报价",
+    "shopAlibaba": "在Alibaba购买"
+  },
+  "footer": {
+    "description": "为希望提高可见度并吸引更多客户的企业提供高端标识解决方案。",
+    "quickLinks": "快速链接",
+    "shoppingOptions": "购买选项",
+    "regionalOffices": "地区办公室",
+    "locations": {
+      "usa": "美国：纽约州",
+      "eu": "欧盟：英国伦敦",
+      "mena": "中东北非：阿联酋迪拜"
+    },
+    "legal": {
+      "privacyPolicy": "隐私政策",
+      "termsOfService": "服务条款",
+      "shippingInfo": "配送信息"
+    },
+    "copyright": "© 2023 ZySign. 版权所有。最后更新：2023年9月19日"
+  },
+  "common": {
+    "loading": "加载中...",
+    "close": "关闭",
+    "trustedBy": "全球领先企业的信赖之选"
+  }
+}

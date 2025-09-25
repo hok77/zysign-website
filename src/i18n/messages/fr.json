@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "about": "À propos",
+    "caseStudies": "Études de Cas",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "alibabaStore": "Boutique Alibaba",
+    "getQuote": "Obtenir un Devis",
+    "skipToContent": "Passer au contenu principal"
+  },
+  "hero": {
+    "title": "Solutions de <highlight>Signalétique</highlight> Premium pour Votre Entreprise",
+    "subtitle": "Panneaux de haute qualité et personnalisables qui améliorent la visibilité de votre marque et attirent des clients du monde entier.",
+    "shortAnswer": "ZySign fournit des solutions de signalétique premium avec livraison mondiale dans plus de 150 pays. Enseignes LED personnalisées, enseignes néon et signalétique extérieure avec certification ISO9001.",
+    "exploreProducts": "Explorer les Produits",
+    "shopOnAlibaba": "Acheter sur Alibaba",
+    "geoNotification": "Nous avons détecté que vous êtes en <strong>{region}</strong>. Souhaitez-vous voir nos <link>produits spécifiques aux États-Unis</link>?",
+    "trustedBy": "Fait confiance par 500+ entreprises dans le monde"
+  },
+  "alibaba": {
+    "title": "Achetez Directement sur Notre Boutique Alibaba",
+    "description": "Explorez notre catalogue complet de produits, lisez les avis d'acheteurs vérifiés et profitez des options de paiement et d'expédition sécurisées d'Alibaba.",
+    "features": {
+      "securePayment": "Protection de paiement sécurisé",
+      "verifiedSupplier": "Fournisseur vérifié avec 10+ années",
+      "tradeAssurance": "Assurance commerciale pour vos commandes"
+    },
+    "visitStore": "Visitez Notre Boutique Alibaba"
+  },
+  "products": {
+    "title": "Nos Solutions de Signalétique Premium",
+    "subtitle": "Choisissez parmi notre large gamme de produits de signalétique de haute qualité adaptés aux besoins de votre entreprise",
+    "filters": {
+      "global": "Global",
+      "northAmerica": "Amérique du Nord",
+      "europe": "Europe",
+      "mena": "MENA"
+    },
+    "ledSigns": {
+      "title": "Enseignes LED",
+      "description": "Solutions de signalisation numérique économes en énergie, lumineuses et durables",
+      "customizable": "Personnalisable"
+    },
+    "neonSigns": {
+      "title": "Enseignes Néon",
+      "description": "Enseignes néon vibrantes et accrocheuses pour bars, cafés et magasins de détail",
+      "customDesigns": "Designs Personnalisés"
+    },
+    "outdoorSigns": {
+      "title": "Enseignes Extérieures",
+      "description": "Solutions de signalisation résistantes aux intempéries pour la promotion extérieure des entreprises",
+      "weatherproof": "Résistant aux Intempéries"
+    },
+    "viewDetails": "Voir Détails",
+    "viewAllProducts": "Voir Tous les Produits sur Alibaba"
+  },
+  "about": {
+    "title": "À Propos de ZySign - Votre Partenaire de Confiance en Signalétique",
+    "subtitle": "Avec plus de 10 ans d'expérience dans l'industrie de la signalétique, ZySign s'est établi comme un fabricant et fournisseur leader de solutions de signalétique premium dans le monde entier.",
+    "mission": "Notre Mission",
+    "missionText": "Autonomiser les entreprises du monde entier avec des solutions de signalétique innovantes et de haute qualité qui améliorent la visibilité de la marque et stimulent l'engagement client. Nous croyons que chaque entreprise mérite une signalétique professionnelle qui reflète l'excellence de sa marque.",
+    "certifications": {
+      "iso9001": "Certification de Gestion de la Qualité ISO9001",
+      "alibabaGold": "Fournisseur Or Alibaba depuis plus de 5 ans",
+      "onTimeDelivery": "Taux de Livraison à Temps de 100%",
+      "globalClients": "Fait Confiance par 500+ Clients Mondiaux"
+    },
+    "stats": {
+      "yearsExperience": "Années d'Expérience",
+      "countriesServed": "Pays Desservis",
+      "happyClients": "Clients Satisfaits"
+    }
+  },
+  "caseStudies": {
+    "title": "Histoires de Succès du Monde Entier",
+    "subtitle": "Découvrez comment les entreprises de différents secteurs ont transformé leur visibilité avec nos solutions de signalétique personnalisées",
+    "restaurant": {
+      "title": "Chaîne de Restaurants du Centre-ville",
+      "description": "Les panneaux de menu LED personnalisés et la signalétique extérieure ont augmenté le trafic piétonnier de 300% et les revenus de 45% en 6 mois.",
+      "location": "New York, États-Unis"
+    },
+    "fashion": {
+      "title": "Chaîne de Boutiques de Mode",
+      "description": "Les vitrines néon vibrantes et la signalétique de devanture ont stimulé les ventes du soir de 250% et considérablement la reconnaissance de la marque.",
+      "location": "Londres, Royaume-Uni"
+    },
+    "corporate": {
+      "title": "Siège Social",
+      "description": "L'installation de signalétique extérieure à grande échelle a amélioré la visibilité de la marque de 400% et renforcé l'image corporative dans le quartier d'affaires.",
+      "location": "Dubaï, EAU"
+    },
+    "viewMore": "Voir Plus d'Études de Cas"
+  },
+  "shipping": {
+    "title": "Livraison Mondiale & Support Local",
+    "subtitle": "Nous livrons dans plus de 150 pays avec un support spécifique à chaque région",
+    "worldwide": {
+      "title": "Livraison Mondiale",
+      "description": "Expédition rapide et fiable vers plus de 150 pays avec options de suivi et d'assurance.",
+      "seaFreight": "Fret Maritime"
+    },
+    "compliance": {
+      "title": "Conformité Régionale",
+      "description": "Produits adaptés pour répondre aux réglementations et normes locales de chaque marché."
+    },
+    "support": {
+      "title": "Support Local",
+      "description": "Service client multilingue disponible en 8 langues pendant les heures d'ouverture locales."
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "subtitle": "Trouvez des réponses aux questions courantes sur nos produits et services",
+    "questions": {
+      "customDesign": {
+        "question": "Proposez-vous des services de conception personnalisée pour la signalisation?",
+        "answer": "Oui, nous fournissons des services de conception personnalisée complets pour tous nos produits de signalisation. Notre équipe de conception travaille avec vous pour créer une signalisation qui correspond à l'identité de votre marque et répond à vos exigences spécifiques. Nous offrons des révisions illimitées jusqu'à ce que vous soyez complètement satisfait du design."
+      },
+      "productionTime": {
+        "question": "Quel est le délai typique de production et d'expédition?",
+        "answer": "Les produits standard sont généralement expédiés sous 3-5 jours ouvrables. Les conceptions personnalisées prennent généralement 7-10 jours ouvrables pour la production. Les délais d'expédition varient selon la destination: 3-5 jours pour l'Amérique du Nord et l'Europe, 5-10 jours pour l'Asie, et 10-15 jours pour les autres destinations internationales."
+      },
+      "middleEast": {
+        "question": "Livrez-vous vers les pays du Moyen-Orient?",
+        "answer": "Oui, nous livrons vers tous les pays du Moyen-Orient, y compris l'Arabie Saoudite, les Émirats arabes unis, le Qatar, le Koweït, Bahreïn, Oman et d'autres. Nous offrons un emballage spécialisé pour les climats désertiques et avons des partenaires locaux à Dubaï pour une livraison plus rapide."
+      }
+    }
+  },
+  "cta": {
+    "title": "Êtes-vous prêt à transformer la visibilité de votre entreprise?",
+    "subtitle": "Choisissez votre méthode de commande préférée - via notre site web ou notre boutique Alibaba vérifiée.",
+    "requestQuote": "Demander un Devis Personnalisé",
+    "shopAlibaba": "Acheter sur Alibaba"
+  },
+  "footer": {
+    "description": "Solutions de signalisation premium pour les entreprises cherchant à améliorer leur visibilité et attirer plus de clients.",
+    "quickLinks": "Liens Rapides",
+    "shoppingOptions": "Options d'Achat",
+    "regionalOffices": "Bureaux Régionaux",
+    "locations": {
+      "usa": "États-Unis: New York, NY",
+      "eu": "UE: Londres, Royaume-Uni",
+      "mena": "MENA: Dubaï, Émirats arabes unis"
+    },
+    "legal": {
+      "privacyPolicy": "Politique de Confidentialité",
+      "termsOfService": "Conditions de Service",
+      "shippingInfo": "Informations d'Expédition"
+    },
+    "copyright": "© 2023 ZySign. Tous droits réservés. Dernière mise à jour: 19 septembre 2023"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "close": "Fermer",
+    "trustedBy": "Fait confiance par les entreprises leaders dans le monde"
+  }
+}
