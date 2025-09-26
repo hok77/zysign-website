@@ -1,6 +1,9 @@
 'use client';
 
 import { ShoppingCart } from 'lucide-react';
+import { useLocale } from 'next-intl';
+import { getAlibabaUrl } from '@/utils/alibaba';
+import { Locale } from '@/i18n/config';
 import Image from 'next/image';
 
 interface HeroProps {
@@ -15,6 +18,8 @@ interface HeroProps {
 }
 
 export default function Hero({ messages }: HeroProps) {
+  const locale = useLocale() as Locale;
+  
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
     if (element) {
@@ -57,7 +62,7 @@ export default function Hero({ messages }: HeroProps) {
                 {messages.exploreProducts}
               </button>
               <a 
-                href="https://zysign.alibaba.com" 
+                href={getAlibabaUrl(locale)} 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-orange-500 text-white px-8 py-3 rounded-full text-center hover:bg-orange-600 transition-colors flex items-center justify-center"

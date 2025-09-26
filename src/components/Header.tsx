@@ -5,6 +5,7 @@ import { Menu, X, ShoppingCart, Globe } from 'lucide-react';
 import { useLocale } from 'next-intl';
 import { useRouter, usePathname } from '@/i18n/routing';
 import { locales, localeNames, type Locale } from '@/i18n/config';
+import { getAlibabaUrl } from '@/utils/alibaba';
 
 interface HeaderProps {
   messages: {
@@ -105,7 +106,7 @@ export default function Header({ messages }: HeaderProps) {
               {messages.contact}
             </button>
             <a 
-              href="https://zysign.alibaba.com" 
+              href={getAlibabaUrl(locale)} 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center text-orange-500 hover:text-orange-600 transition-colors"
@@ -142,13 +143,15 @@ export default function Header({ messages }: HeaderProps) {
           </div>
 
           {/* Mobile Menu Button */}
-          <button
-            onClick={() => setIsMenuOpen(!isMenuOpen)}
-            className="md:hidden text-dark focus:outline-none"
-            aria-label="Toggle mobile menu"
-          >
-            {isMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
-          </button>
+          <div className="md:hidden flex items-center">
+            <button
+              onClick={() => setIsMenuOpen(!isMenuOpen)}
+              className="text-dark focus:outline-none"
+              aria-label="Toggle mobile menu"
+            >
+              {isMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+            </button>
+          </div>
         </div>
 
         {/* Mobile Menu */}
@@ -192,7 +195,7 @@ export default function Header({ messages }: HeaderProps) {
                 {messages.contact}
               </button>
               <a 
-                href="https://zysign.alibaba.com" 
+                href={getAlibabaUrl(locale)} 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center py-2 text-orange-500 hover:text-orange-600 transition-colors"
@@ -200,6 +203,25 @@ export default function Header({ messages }: HeaderProps) {
                 <ShoppingCart className="w-4 h-4 mr-2" />
                 {messages.alibabaStore}
               </a>
+              
+              {/* Mobile Language Selector */}
+              <div className="pt-2 border-t">
+                <div className="relative">
+                  <select
+                    value={locale}
+                    onChange={(e) => changeLanguage(e.target.value)}
+                    className="appearance-none bg-white text-sm border border-gray-200 rounded-lg px-4 py-2 pr-8 focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none shadow-sm hover:border-gray-300 transition-all duration-200 w-full"
+                  >
+                    {locales.map((loc) => (
+                      <option key={loc} value={loc}>
+                        {localeNames[loc]}
+                      </option>
+                    ))}
+                  </select>
+                  <Globe className="absolute right-3 top-1/2 transform -translate-y-1/2 w-4 h-4 text-gray-400 pointer-events-none" />
+                </div>
+              </div>
+              
               <div className="pt-2 border-t">
                 <button 
                   onClick={() => scrollToSection('contact')}

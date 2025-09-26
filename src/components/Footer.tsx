@@ -1,6 +1,9 @@
 'use client';
 
 import { ShoppingCart, Facebook, Instagram, Twitter, Linkedin, MapPin } from 'lucide-react';
+import { useLocale } from 'next-intl';
+import { getAlibabaUrl } from '@/utils/alibaba';
+import { Locale } from '@/i18n/config';
 
 interface FooterProps {
   messages: {
@@ -31,6 +34,8 @@ interface FooterProps {
 }
 
 export default function Footer({ messages }: FooterProps) {
+  const locale = useLocale() as Locale;
+  
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
     if (element) {
@@ -134,7 +139,7 @@ export default function Footer({ messages }: FooterProps) {
             <ul className="space-y-3">
               <li>
                 <a 
-                  href="https://zysign.alibaba.com" 
+                  href={getAlibabaUrl(locale)} 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors flex items-center"

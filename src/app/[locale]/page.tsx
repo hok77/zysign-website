@@ -1,5 +1,8 @@
 import { useTranslations } from 'next-intl';
+import { useLocale } from 'next-intl';
 import { locales } from '@/i18n/config';
+import { getAlibabaUrl, getAlibabaDomainDisplay } from '@/utils/alibaba';
+import { Locale } from '@/i18n/config';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import Products from '@/components/Products';
@@ -13,6 +16,7 @@ export function generateStaticParams() {
 
 export default function HomePage() {
   const t = useTranslations();
+  const locale = useLocale() as Locale;
 
   return (
     <div className="min-h-screen">
@@ -54,7 +58,7 @@ export default function HomePage() {
               </ul>
               
               <a 
-                href="https://zysign.alibaba.com" 
+                href={getAlibabaUrl(locale)} 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center bg-orange-500 text-white px-8 py-3 rounded-full hover:bg-orange-600 transition-colors animate-pulse"
@@ -71,7 +75,7 @@ export default function HomePage() {
                   <div className="w-3 h-3 rounded-full bg-red-500 mr-2"></div>
                   <div className="w-3 h-3 rounded-full bg-yellow-500 mr-2"></div>
                   <div className="w-3 h-3 rounded-full bg-green-500"></div>
-                  <div className="ml-auto text-xs text-gray-600">zysign.alibaba.com</div>
+                  <div className="ml-auto text-xs text-gray-600">{getAlibabaDomainDisplay(locale)}</div>
                 </div>
                 <div className="h-64 bg-gradient-to-br from-orange-400 to-red-500 flex items-center justify-center">
                   <div className="text-white text-center">
@@ -297,7 +301,7 @@ export default function HomePage() {
                 {t('cta.requestQuote')}
               </button>
               <a 
-                href="https://zysign.alibaba.com" 
+                href={getAlibabaUrl(locale)} 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-orange-500 text-white px-8 py-3 rounded-full text-center hover:bg-orange-600 transition-colors font-medium flex items-center justify-center"

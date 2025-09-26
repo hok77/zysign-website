@@ -2,6 +2,9 @@
 
 import { useState } from 'react';
 import { ArrowRight, Check, ExternalLink } from 'lucide-react';
+import { useLocale } from 'next-intl';
+import { getAlibabaUrl } from '@/utils/alibaba';
+import { Locale } from '@/i18n/config';
 import Image from 'next/image';
 
 interface ProductsProps {
@@ -57,6 +60,7 @@ const products = [
 
 export default function Products({ messages }: ProductsProps) {
   const [activeFilter, setActiveFilter] = useState('global');
+  const locale = useLocale() as Locale;
 
   const filters = [
     { id: 'global', label: messages.filters.global },
@@ -172,7 +176,7 @@ export default function Products({ messages }: ProductsProps) {
         
         <div className="text-center mt-12">
           <a 
-            href="https://zysign.alibaba.com/products" 
+            href={getAlibabaUrl(locale)} 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center text-orange-500 font-medium hover:underline"
