@@ -64,7 +64,12 @@ export default function Header({ messages }: HeaderProps) {
             onClick={() => scrollToSection('home')}
             className="flex items-center space-x-2"
           >
-            <span className="text-primary text-2xl font-bold">ZySign</span>
+            <img 
+              src="/zy.logo.png" 
+              alt="ZySign Logo" 
+              className="h-20 w-auto select-none"
+              onContextMenu={(e) => e.preventDefault()}
+            />
           </button>
 
           {/* Desktop Navigation */}

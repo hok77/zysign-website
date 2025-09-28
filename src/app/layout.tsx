@@ -18,9 +18,9 @@ export const metadata: Metadata = {
   description: "ZySign provides premium signage solutions with global delivery to 150+ countries. Custom LED signs, neon signs, and outdoor signage with ISO9001 certification.",
   keywords: "signage, LED signs, neon signs, outdoor signs, custom signs, business signage, Alibaba supplier, global shipping",
   icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon.ico',
-    apple: '/icon.ico',
+    icon: '/zhiyelogo64x64.ico',
+    shortcut: '/zhiyelogo64x64.ico',
+    apple: '/zhiyelogo32x32.ico',
   },
   openGraph: {
     title: "ZySign - Premium Signage Solutions for Global Business",

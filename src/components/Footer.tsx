@@ -51,9 +51,14 @@ export default function Footer({ messages }: FooterProps) {
           <div>
             <button 
               onClick={() => scrollToSection('home')}
-              className="text-2xl font-bold mb-6 inline-block hover:text-blue-400 transition-colors"
+              className="mb-6 inline-block hover:text-blue-400 transition-colors"
             >
-              ZySign
+              <img 
+                src="/zy.logo.png" 
+                alt="ZySign Logo" 
+                className="h-20 w-auto filter brightness-0 invert select-none"
+                onContextMenu={(e) => e.preventDefault()}
+              />
             </button>
             <p className="text-gray-400 mb-6">
               {messages.description}
